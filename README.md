@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthpillai" alt="amruthpillai" /> </p>
 
-- 🔭 I’m currently working at [Lunatech](https://www.lunatech.ok), Pakistan
+- 🔭 I’m currently working at [Lunatech](https://www.lunatech.pk), Pakistan
 
 - 👨‍💻 All of my projects are available at [https://www.lunatech.pk](https://www.lunatech.pk)
 
