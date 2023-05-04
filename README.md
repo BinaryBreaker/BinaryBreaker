@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muzamil</h1>
 <h3 align="center">Designer. Developer.  Writer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthpillai" alt="amruthpillai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BinaryBreaker" alt="amruthpillai" /> </p>
 
 - 🔭 I’m currently working at [Lunatech](https://www.lunatech.pk), Pakistan
 
