@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **muzamilhuss4@gmail.com**
 
-- 📞 Contact with me  **+923041053082**
 
 <div>
  <a href="https://github.com/BinaryBreaker"  target="_blank">
