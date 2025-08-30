@@ -1,61 +1,65 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Muhammad Muzamil</h1>
-<h3 align="center">Full-Stack Developer  </h3>
+<h3 align="center">💻 Full-Stack Developer | 🤖 LLM Agent Developer | 🔬 Researcher</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=BinaryBreaker" alt="profile views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BinaryBreaker&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
+  <a href="mailto:muzamilhuss4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=D14836" alt="email"/>
+  </a>
+  <a href="https://github.com/BinaryBreaker" target="_blank">
+    <img src="https://img.shields.io/github/followers/BinaryBreaker?label=Follow&style=social" alt="github"/>
+  </a>
 </p>
 
-- 🔭 Currently building awesome things at **LunaTech, Pakistan**  
-- 💡 Passionate about **Full-Stack Development, Scalable Systems & Creative Design**  
-- 💬 Ask me about **Python | Java | JavaScript | React | Next.js | Docker | Databases**  
-- ✍️ I also write about **tech, coding practices, and design thinking**  
-- 📫 Reach me at **muzamilhuss4@gmail.com**
+---
 
-<div>
- <a href="https://github.com/BinaryBreaker" target="_blank">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BinaryBreaker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBreaker&layout=compact&langs_count=16&theme=dracula"/>
- </a>
+### 🚀 About Me  
+- 🔭 Currently building awesome stuff at **LunaTech, Pakistan**  
+- 💡 Passionate about **scalable systems, creative design & full-stack development**  
+- 💬 Ask me about **Python | Java | JavaScript | React | Next.js | Docker | Databases**  
+- ✍️ I also write about **tech, coding best practices & design thinking**  
+- 📫 Reach me: **muzamilhuss4@gmail.com**
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+  <a href="https://github.com/BinaryBreaker" target="_blank">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BinaryBreaker&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBreaker&layout=compact&langs_count=16&theme=radical"/>
+  </a>
 </div>
 
 ---
 
-<h3 align="left">🚀 Tech Stack & Tools</h3>
-<p align="left">
-  
+### 🛠️ Tech Stack  
+<p align="center">
   <!-- Core -->
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
   <!-- Frameworks -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nest,flask" />
   <!-- Databases -->
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
   <!-- DevOps -->
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-
+  <img src="https://skillicons.dev/icons?i=docker,gcp,heroku,git" />
   <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/></a>
-
+  <img src="https://skillicons.dev/icons?i=postman" />
   <!-- UI & Design -->
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  
+  <img src="https://skillicons.dev/icons?i=tailwind,html,css,ps,ai" />
 </p>
+
+---
+
+### 🌍 Connect with Me  
+<p align="center">
+  <a href="mailto:muzamilhuss4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/BinaryBreaker"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white"/></a> -->
+  <a href="https://www.linkedin.com/in/muzamil-hussain-%E2%9C%85-software-engineer-4845911a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
+</p>
+
+---
+
+✨ *“Code is like art — simple, elegant, and impactful.”*
