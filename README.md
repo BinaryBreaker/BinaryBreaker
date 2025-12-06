@@ -53,7 +53,7 @@
   <!-- UI & Design -->
   <img src="https://skillicons.dev/icons?i=tailwind,html,css,ps,ai" title="Tailwind, HTML, CSS"/>
   <!-- AI & Forensics -->
-  <img src="https://skillicons.dev/icons?i=langchain,openai,python" title="LLM Development, RAG Systems, AI forensics"/>
+  <img src="https://skillicons.dev/icons?i=langchain,openai,python" title="LLM Development, RAG, AI forensics"/>
 </p>
 
 ---
