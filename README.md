@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-* 🤖 Building **production-grade agentic AI systems** — multi-agent pipelines, LLM orchestration, and RAG architectures at **LunaTech, Pakistan**
+* 🤖 Building **production-grade agentic AI systems** — multi-agent pipelines, LLM orchestration, and RAG architectures
 * 🛠️ Backend engineer specializing in **microservices, distributed systems, and cloud-native deployments**
 * 🔗 Deep experience with **LangChain, OpenAI APIs, tool-calling agents, and autonomous AI workflows**
 * 💬 Ask me about **Python | Node.js | NestJS | Flask | FastAPI | Microservices | LLM Agents | RAG | Docker | Kubernetes | PostgreSQL | Redis**
